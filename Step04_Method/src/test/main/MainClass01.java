@@ -5,7 +5,7 @@ public class MainClass01 {		//클래스 안에 정의할 수 있는것  field, m
 	// run 했을때 실행순서가 시작되는 특별한 메소드
 	public static void main(String[] args) {
 		System.out.println("main() 메소드 시작됨");
-		/*
+		/* 
 		 *  [static 메소드 호출하는 방법]
 		 *  static 메소드를 가지고 있는 클래스들은 반드시 
 		 *  클래스명.메소드명();
