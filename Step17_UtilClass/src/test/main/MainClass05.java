@@ -19,7 +19,7 @@ public class MainClass05 {
 		String name1=(String)mem.get("name");
 		String addr1=(String)mem.get("addr");
 		int a=mem.size();
-		
+		System.out.println(mem);
 		//특정 key 값으로 저장된 데이터 삭제
 		mem.remove("addr");
 	}
